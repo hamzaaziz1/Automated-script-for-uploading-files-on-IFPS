@@ -3,6 +3,7 @@ const FormData = require('form-data')
 const fs = require('fs')
 const JWT = ''
 
+
 const dirName1 = 'PICS'
 const dirName2 = 'JSON_files'
 
